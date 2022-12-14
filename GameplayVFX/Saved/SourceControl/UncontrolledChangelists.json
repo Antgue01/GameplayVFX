@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Uni/Master/Practicas Curso/GameplayVFX/GameplayVFX/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"E:/Uni/Master/Practicas Curso/GameplayVFX/GameplayVFX/Content/GameplayVFX/Blueprints/BP_myCharacter.uasset",
+				"E:/Uni/Master/Practicas Curso/GameplayVFX/GameplayVFX/Content/GameplayVFX/Blueprints/BP_Hat.uasset",
+				"E:/Uni/Master/Practicas Curso/GameplayVFX/GameplayVFX/Content/GameplayVFX/Blueprints/BP_TrophyManager.uasset",
+				"E:/Uni/Master/Practicas Curso/GameplayVFX/GameplayVFX/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/WD/9J2X3Y7U5MH85R8NHKS9KN.uasset",
+				"E:/Uni/Master/Practicas Curso/GameplayVFX/GameplayVFX/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/P0/S16VIICG2QIYPTFL02BVP6.uasset"
+			]
+		}
+	]
+}
