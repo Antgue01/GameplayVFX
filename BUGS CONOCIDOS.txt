@@ -1,0 +1,2 @@
+El reset a veces tira excepción
+A veces algunos circulos muestran una pequeña tira de color contrario

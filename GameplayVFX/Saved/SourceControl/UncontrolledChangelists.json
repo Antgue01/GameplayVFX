@@ -25,10 +25,27 @@
 				"E:/Uni/Master/Practicas Curso/GameplayVFX/GameplayVFX/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/RS/EO8LGHUM6REXY3FN5LGDA5.uasset",
 				"E:/Uni/Master/Practicas Curso/GameplayVFX/GameplayVFX/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/MO/3RYA5PGCX6NM4TMZ5CHPJ3.uasset",
 				"E:/Uni/Master/Practicas Curso/GameplayVFX/GameplayVFX/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/DF/45FCF3WCBL08DGILCKV81X.uasset",
-				"E:/Uni/Master/Practicas Curso/GameplayVFX/GameplayVFX/Content/GameplayVFX/Blueprints/BP_Trophy.uasset",
 				"E:/Uni/Master/Practicas Curso/GameplayVFX/GameplayVFX/Content/GameplayVFX/Blueprints/BP_Goal.uasset",
 				"E:/Uni/Master/Practicas Curso/GameplayVFX/GameplayVFX/Content/GameplayVFX/Blueprints/BP_FinalGoal.uasset",
-				"E:/Uni/Master/Practicas Curso/GameplayVFX/GameplayVFX/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+				"E:/Uni/Master/Practicas Curso/GameplayVFX/GameplayVFX/Content/StarterContent/Materials/M_Basic_Wall.uasset",
+				"E:/Uni/Master/Practicas Curso/GameplayVFX/GameplayVFX/Content/GameplayVFX/Blueprints/NiagaraDebugger.uasset",
+				"E:/Uni/Master/Practicas Curso/GameplayVFX/GameplayVFX/Content/GameplayVFX/Mesh/M_Disk.uasset",
+				"E:/Uni/Master/Practicas Curso/GameplayVFX/GameplayVFX/Content/GameplayVFX/Textures/T_RingNoise.uasset",
+				"E:/Uni/Master/Practicas Curso/GameplayVFX/GameplayVFX/Content/GameplayVFX/Materials/M_ExternalRing.uasset",
+				"E:/Uni/Master/Practicas Curso/GameplayVFX/GameplayVFX/Content/GameplayVFX/Mesh/M_Torus.uasset",
+				"E:/Uni/Master/Practicas Curso/GameplayVFX/GameplayVFX/Content/GameplayVFX/Materials/MI_ExternalRingPlane.uasset",
+				"E:/Uni/Master/Practicas Curso/GameplayVFX/GameplayVFX/Content/GameplayVFX/Materials/Curves/C_Allowed.uasset",
+				"E:/Uni/Master/Practicas Curso/GameplayVFX/GameplayVFX/Content/GameplayVFX/Materials/Curves/C_Prohibited.uasset",
+				"E:/Uni/Master/Practicas Curso/GameplayVFX/GameplayVFX/Content/GameplayVFX/Materials/Curves/CA_Colors.uasset",
+				"E:/Uni/Master/Practicas Curso/GameplayVFX/GameplayVFX/Content/GameplayVFX/Textures/test.uasset",
+				"E:/Uni/Master/Practicas Curso/GameplayVFX/GameplayVFX/Content/GameplayVFX/Textures/T_BGNoise.uasset",
+				"E:/Uni/Master/Practicas Curso/GameplayVFX/GameplayVFX/Content/GameplayVFX/FX/NS_Bronze.uasset",
+				"E:/Uni/Master/Practicas Curso/GameplayVFX/GameplayVFX/Content/GameplayVFX/FX/NPC_Anima.uasset",
+				"E:/Uni/Master/Practicas Curso/GameplayVFX/GameplayVFX/Content/GameplayVFX/FX/NPC_Animal.uasset",
+				"E:/Uni/Master/Practicas Curso/GameplayVFX/GameplayVFX/Content/GameplayVFX/FX/NewNiagaraParameterDefinitions.uasset",
+				"E:/Uni/Master/Practicas Curso/GameplayVFX/GameplayVFX/Content/GameplayVFX/Materials/test.uasset",
+				"E:/Uni/Master/Practicas Curso/GameplayVFX/GameplayVFX/Content/GameplayVFX/Materials/M_TwoSidedMaterial.uasset",
+				"E:/Uni/Master/Practicas Curso/GameplayVFX/GameplayVFX/Content/GameplayVFX/Blueprints/BP_Trophy.uasset"
 			]
 		}
 	]
